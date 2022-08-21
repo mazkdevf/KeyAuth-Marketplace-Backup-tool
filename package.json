@@ -1,0 +1,12 @@
+{
+  "name": "keyauthbkup",
+  "version": "1.0.0",
+  "description": "Backup / Export Users + Licenses from KeyAuth",
+  "main": "index.js",
+  "author": "mazkdevf <https://github.com/mazkdevf>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7"
+  }
+}
